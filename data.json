@@ -1,0 +1,23 @@
+{
+    "profile":{
+        "name":"Harsha",
+        "label":"none",
+        "email":"harshadeva44@gmail.com"
+
+    },
+     "career": {
+        "info":"PVPSIT"
+     },
+
+
+
+          "person":{
+                "career":{"obj":"To promote the organisation growth"},
+                "address":{"h_no":"124","street":"accd street","village":"xyz"},
+                "education":{
+                    "school":{"sname":"XYZ","year":"2013-14","degree":"ssc"},
+                    "inter":{"cname":"NRI","year":"2014-16","degree":"inter"},
+                    "engineering":{"cname":"PVPSIT","year":"2016-20","degree":"btech"}
+                }
+        }
+}
